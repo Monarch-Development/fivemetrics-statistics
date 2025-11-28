@@ -1,110 +1,110 @@
 {
   "success": true,
-  "lastUpdated": 1764298834313,
-  "totalServers": 44083,
-  "totalPlayers": 130860,
+  "lastUpdated": 1764302446899,
+  "totalServers": 44077,
+  "totalPlayers": 119991,
   "resources": {
     "mnr_cayo": {
       "serverRank": 1126,
-      "playerRank": 1655,
+      "playerRank": 1477,
       "serverRankChange": 17,
-      "playerRankChange": 202,
-      "servers": 697,
-      "players": 2668
+      "playerRankChange": 380,
+      "servers": 698,
+      "players": 2805
     },
     "mnr_postals": {
-      "serverRank": 5624,
-      "playerRank": 12610,
-      "serverRankChange": 15,
-      "playerRankChange": -1829,
+      "serverRank": 5623,
+      "playerRank": 11798,
+      "serverRankChange": 16,
+      "playerRankChange": -1017,
       "servers": 168,
-      "players": 460
+      "players": 478
     },
     "mnr_sitanywhere": {
-      "serverRank": 11600,
-      "playerRank": 26167,
-      "serverRankChange": -86,
-      "playerRankChange": -13971,
+      "serverRank": 11593,
+      "playerRank": 24720,
+      "serverRankChange": -79,
+      "playerRankChange": -12524,
       "servers": 85,
-      "players": 239
+      "players": 242
     },
     "mnr_fuel": {
-      "serverRank": 25049,
-      "playerRank": 91115,
-      "serverRankChange": -100,
-      "playerRankChange": -62899,
+      "serverRank": 25057,
+      "playerRank": 95405,
+      "serverRankChange": -108,
+      "playerRankChange": -67189,
       "servers": 38,
-      "players": 49
+      "players": 42
     },
     "mnr_elevators": {
-      "serverRank": 23359,
-      "playerRank": 111603,
-      "serverRankChange": 195,
-      "playerRankChange": 22664,
+      "serverRank": 23334,
+      "playerRank": 105140,
+      "serverRankChange": 220,
+      "playerRankChange": 29127,
       "servers": 41,
       "players": 35
     },
     "mnr_blips": {
-      "serverRank": 49676,
-      "playerRank": 161842,
-      "serverRankChange": -145,
-      "playerRankChange": -32967,
+      "serverRank": 49517,
+      "playerRank": 143191,
+      "serverRankChange": 14,
+      "playerRankChange": -14316,
       "servers": 17,
-      "players": 15
+      "players": 19
     },
     "mnr_showid": {
-      "serverRank": 110943,
-      "playerRank": 493230,
-      "serverRankChange": -11299,
-      "playerRankChange": 54454,
+      "serverRank": 110761,
+      "playerRank": 478416,
+      "serverRankChange": -11117,
+      "playerRankChange": 69268,
       "servers": 6,
       "players": 0
     },
     "mnr_ipl": {
-      "serverRank": 94616,
-      "playerRank": 224929,
-      "serverRankChange": 1653,
-      "playerRankChange": 66361,
+      "serverRank": 94460,
+      "playerRank": 217170,
+      "serverRankChange": 1809,
+      "playerRankChange": 74120,
       "servers": 7,
       "players": 6
     },
     "mnr_anticl": {
-      "serverRank": 119217,
-      "playerRank": 225646,
-      "serverRankChange": 570,
-      "playerRankChange": 15894,
+      "serverRank": 119088,
+      "playerRank": 217929,
+      "serverRankChange": 699,
+      "playerRankChange": 23611,
       "servers": 5,
       "players": 6
     },
     "mnr_zones": {
-      "serverRank": 124426,
-      "playerRank": 357501,
-      "serverRankChange": -317,
-      "playerRankChange": -13541,
+      "serverRank": 124169,
+      "playerRank": 343001,
+      "serverRankChange": -60,
+      "playerRankChange": 959,
       "servers": 5,
       "players": 1
     },
     "mnr_consumables": {
-      "serverRank": 152886,
-      "playerRank": 502549,
-      "serverRankChange": 1890,
-      "playerRankChange": 53121,
+      "serverRank": 152602,
+      "playerRank": 488208,
+      "serverRankChange": 2174,
+      "playerRankChange": 67462,
       "servers": 4,
       "players": 0
     },
     "mnr_dispatch": {
-      "serverRank": 367695,
-      "playerRank": 568777,
-      "serverRankChange": 9906,
-      "playerRankChange": 42072,
+      "serverRank": 365784,
+      "playerRank": 557526,
+      "serverRankChange": 11817,
+      "playerRankChange": 53323,
       "servers": 2,
       "players": 0
     },
     "mnr_loadingscreen": {
-      "serverRank": 367696,
-      "playerRank": 568778,
-      "serverRankChange": -113524,
-      "playerRankChange": -419904,
+      "serverRank": 365785,
+      "playerRank": 557527,
+      "serverRankChange": -111613,
+      "playerRankChange": -408653,
       "servers": 2,
       "players": 0
     }
