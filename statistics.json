@@ -1,6 +1,6 @@
 {
   "success": true,
-  "lastUpdated": 1764514819935,
+  "lastUpdated": 1764514846242,
   "totalServers": 45459,
   "totalPlayers": 183445,
   "resources": {
@@ -11,14 +11,6 @@
       "playerRankChange": 18,
       "servers": 718,
       "players": 3577
-    },
-    "mnr_postals": {
-      "serverRank": 5578,
-      "playerRank": 20107,
-      "serverRankChange": -11,
-      "playerRankChange": -8635,
-      "servers": 171,
-      "players": 470
     },
     "mnr_sitanywhere": {
       "serverRank": 12029,
